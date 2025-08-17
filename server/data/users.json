@@ -1,0 +1,10 @@
+[
+  {
+    "id": "60202d12-99e0-43a3-95eb-ccfeecd73a00",
+    "email": "admin@local",
+    "name": "Admin",
+    "role": "admin",
+    "passwordHash": "$2a$10$yFOV/D.65MyIxow2jWQMkOqKCktoA3g5/YItNUPLML6aD9pHFZrWO",
+    "createdAt": "2025-08-17T16:07:09.060Z"
+  }
+]
