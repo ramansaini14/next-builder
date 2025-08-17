@@ -13,7 +13,7 @@ function DraggableItem({ type, label }) {
 
 export function Palette() {
 	return (
-		<div className="space-y-2">
+		<div className="grid grid-cols-2 gap-2">
 			{defaultPalette.map((item) => (
 				<DraggableItem key={item.type} type={item.type} label={item.label} />
 			))}
